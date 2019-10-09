@@ -96,7 +96,7 @@
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <layer id="1" name="Platforms" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+   eJztk1sOwiAQRaka1OCjrcZHfKzNpXUpLs1LYOI4QQU7/XOSk+GD3DMUasy/hqoVWIN6wPwN2EYPLw0n5buI9JzAuYeX59tIysMr5czNd2L9yVOSfwHjN1wLPQuw7DFTTn4DWmUP3Tvlg3sbUPNMWb4LvUP+za81PT6f3ogVay0Pz5YuDU9tXt96qtvg6Epy/R3MIvOM/VX05MxLXc6aU9WXvSPz/CcnPzrII8+zBzvRU9+8pPh5DuCY6PLt+P4AKOgKWg==
   </data>
  </layer>
  <layer id="2" name="Coins" width="25" height="20">

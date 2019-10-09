@@ -80,7 +80,6 @@ class MyGame(arcade.Window):
         self.player_list.append(self.player_sprite)
 
         # --- Load in a map from the tiled editor ---
-
         # Name of map file to load
         map_name = "map.tmx"
         # Name of the layer in the file that has our platforms/walls
